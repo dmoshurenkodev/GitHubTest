@@ -5,6 +5,8 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+# Auto generated file
+/src/main/assets/assets.index
 /captures
 .externalNativeBuild
 .cxx
@@ -86,3 +88,5 @@ lint/tmp/
 # lint/reports/
 
 
+app/libs/
+app/sampledata/
